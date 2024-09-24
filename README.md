@@ -69,15 +69,11 @@ The Workout Plan Generator is a personalized fitness application that allows use
    ```bash
    cd The_workout_app
    ```
-3. Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 1. Run the application:
    ```bash
-   python3 app.py
+   python3 get_fit.py
    ```
 2. Follow the on-screen instructions to input your fitness preferences (goals, equipment, time availability).
 3. Get your customized workout plan and start training!
